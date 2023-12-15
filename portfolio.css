@@ -288,10 +288,6 @@ body {
     .skill-div{
         margin-top: -200px;
     }
-    .card {
-        width: 150px;
-        height: 150px;
-    }
 }
 
 @media screen and (max-width: 479px) {
@@ -320,8 +316,7 @@ body {
         height:400px;
     }
     .card {
-        width: 100px;
-        height: 100px;
+        height: 140px;
     }
 } 
 
