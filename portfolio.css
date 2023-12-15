@@ -288,9 +288,10 @@ body {
     .skill-div{
         margin-top: -200px;
     }
-    /* .card {
-        flex: 1 0 calc(50% - 10px);
-    } */
+    .card {
+        width: 150px;
+        height: 150px;
+    }
 }
 
 @media screen and (max-width: 479px) {
@@ -318,9 +319,10 @@ body {
         width:300px;
         height:400px;
     }
-    /* .card {
-        flex: 1 0 100%;
-    } */
+    .card {
+        width: 100px;
+        height: 100px;
+    }
 } 
 
 .about-projects{
